@@ -7,6 +7,8 @@ name = "pypi"
 transformers = "==4.34.0"
 pandas = "==2.0.3"
 bertviz = "==1.4.0"
+accelerate = "*"
+datasets = "*"
 
 [dev-packages]
 ipykernel = "*"
